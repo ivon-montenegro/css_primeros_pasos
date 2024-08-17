@@ -1,5 +1,38 @@
 /* PRIMER SELECTOR CON ETIQUETA HTML*/
 h1 { 
     color:blue;
+}
+
+article h2 { 
+    color:red;
+}
+
+/*
+p { 
+    color:green;
+} 
+
+article p { 
+    color: pink;
+} */
+
+/* SELECTOR CON CLASES */
+
+.texto { 
+    color: green;
+} 
+
+
+/* SELECTOR CON ID */
+
+#texto2 {
+    color: blueviolet;
 
 }
+
+
+
+
+
+
+
